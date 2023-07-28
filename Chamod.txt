@@ -1,0 +1,5 @@
+In case of fire
+
+git commit 
+git push
+git out
